@@ -1,0 +1,539 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65041247a6670247b5beee4c7b1bc89, type: 3}
+  m_Name: CharCustomiserSO
+  m_EditorClassIdentifier: 
+  BlackFemaleBlackClothes:
+  - itemMaterial: {fileID: 2100000, guid: 334279ef7dcbaea468a366d5336f3920, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: de0e1fe3926aa4c4a9845aa7d59ef491, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 904695a61655bbc4fb137d4e903e9911, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 36d8cbbf6bf8a404882a833a59050561, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 7c7d57d3cf84d004ea3389c9c53779de, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 0e07c9f42aa98f54187d6e393bb7906f, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 0d09369e891f28f4eaceddd430e6223b, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 3cc2ddf8d84f0424185b90be49c53451, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: a708b12790f3a0c43ab22ad59830b1f2, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 7f864486fb62136489ef6a0960cd3271, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: b1f85010357c3f64f825379f03d281b1, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 55963c391823c3e4d94aac5243fa0568, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 3fd0653d58d5d7346897ab99f5ed7617, type: 2}
+    isSold: 1
+    price: 0
+  BlackFemaleBlueClothes:
+  - itemMaterial: {fileID: 2100000, guid: aba6b4e4b3a707348851184a3e3b7811, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 94f4c1b725ae7064d9c2d35a0852972b, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: c84c34c625d9f2d498b4df8211b5445e, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: dc8aca67245809d4caa8dfe913007d65, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 8b0350207ada8fa4398f0c13e3a9270f, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 27d8a8866ac0a6742995e2b67916edf7, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: da3ab39cbba7ba048b47faf4996d42fa, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 5ff4b220b98a50349957a2e3e884c2c9, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 40078b6570e671348b80989c247879ad, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 62dadbd1075a7514b8b3ade4ce8179af, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 5d6acefc8304ae141b5507581f2deb6a, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 1c01705bf746ac54fa42af11d980eae2, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 337576cf95768d741a49991d832acdbd, type: 2}
+    isSold: 0
+    price: 10
+  BlackFemaleCyanClothes:
+  - itemMaterial: {fileID: 2100000, guid: 3649dd452f4808c428d4ef560cba0738, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: a6b98b5d1cf85f5468fd103a9be8360d, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 0766bb6e424544f45ba27d5bfcaf41c0, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: ffba33cd7be1ef14f8b08c387497c7ff, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 978537d0383e7df44a8a251793ec75e3, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 101c59a064d004445a3d7e9b2c7dd4b5, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: a5cb82713107fbe489cd4af39ff27d81, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 1afd20e5d1efde849b6bc86c82ef3634, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 701a8ecf3b2a5d34dae935688a7d3561, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: a4a709dd5eb74474ab1d305c51085fb4, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: f8d77edee58d62a4e8610c119b0f5acb, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 58ff46cc6ea4f5149a0e99c03814550d, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 223b22b39875756408190a2513e95a09, type: 2}
+    isSold: 0
+    price: 25
+  WhiteFemaleBlackClothes:
+  - itemMaterial: {fileID: 2100000, guid: cb351b33e0facc14aa764c83c69dee60, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 4a1f1d43a576fcf47aa6c14d4231153c, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: aeb0394daf4786e40a15f1c560a1c879, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 4952ca56ae179a2428a3c9dec841a4c8, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: c471d4e1c2ccbcd4ea8e6de3bcbb995e, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: f931072b25e55fb428ed31c760f86501, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 8925bccec7edb9344b5ce5a2f80c0bc4, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: d20634ed9a29a5d43973293b0502a586, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: d84e11b46fd3eed4d9b1af24abf98fb5, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 2f1bb25acf2d4ff469d2a315845854d1, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: c2c6888e9b70a834b87211092e7d142f, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 2590cba5b7a52234d8678acc84ae0af3, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: ca2d4fcf43a4ac745846da3278b0367b, type: 2}
+    isSold: 1
+    price: 0
+  WhiteFemaleBlueClothes:
+  - itemMaterial: {fileID: 2100000, guid: 831c611d164a8b844b9af3ec6ce6a37b, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 2b726feed1812934aa9f1a7a8cbdc7ee, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 1e12cc6a439c33a42bb8a4aa9891a240, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 613f43af6358a50418c3f9f78a0fc4a7, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 229de3778f8dfb64988725a91991157f, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: a712a54d7f5f128418e9e2ae0d219219, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 0eebfa7ff6aa21b4394e3ecf85caeada, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: e18fa01e852edd2479c59498da664969, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: b58d76002ab9e1a41bd1f86c2b2c36a1, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: d0016f6015e2d54408c9ea801b967dfe, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 264b7175b681c824a9557f1fdb205661, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: fdef3af3b54f4cb40833f5dca8b66fde, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: c37da33b00350cc42a3f7f394199f987, type: 2}
+    isSold: 0
+    price: 10
+  WhiteFemaleCyanClothes:
+  - itemMaterial: {fileID: 2100000, guid: 01415a99feeacca488646e7e5e9bac1c, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: d540616f0dcc149408b08a66c0e2877f, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 47a0f62f970a1f2458ef13890f4b52e6, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 0cf4565104039fd4c8d38714cbe57c8b, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: c38b769ff9a5ea7488116fae2d615312, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: eb5700e22635c244aa771f4ade6fc201, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 81eaba4cad631e34abddb3d9dcc4ebe2, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 559bc8562a8da944a96c264e04b0bf78, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: bb96618b4cae3cd42a5108058618ab83, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 446070efe235f734fb4b164257131dc0, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: ed0cffecc54bdc444a14fe58f865d270, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 01636c88099ea4e46be27a580a503ecc, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 71ee74b1edb3e5542b7a68a71d3709ca, type: 2}
+    isSold: 0
+    price: 25
+  BlackMaleBlackClothes:
+  - itemMaterial: {fileID: 2100000, guid: f7e1d07f25fde6149996fbaa190a72c5, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 8908e14bddbe70e4b9414520b111c96e, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 63c500610d7a12a4ba1c5c816f2cb473, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 1fedea6b4d7dda94dab7c726c9f483ad, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: e3aea2070c0084441aeadb12db96458b, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: d58d49af808c405418fc0a7c373654f8, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 764c6098610bca54b86ce6b9d099754a, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: ccd8114fa6cb75e44be49d499a332226, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 3e6169f017a739f4482b9f1f7c0ae353, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: b7c315081eb0af64ab09a1749d458a5d, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 2888eed615988e847b060e93b6fa5b86, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 8659a20ace6e8db4c914d2b592bcf281, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: c4822fe930b8d6042a9580ad42bbcbc0, type: 2}
+    isSold: 1
+    price: 0
+  BlackMaleBlueClothes:
+  - itemMaterial: {fileID: 2100000, guid: d1dab45cfe079d042a23123b1b4e152d, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 94fdb071ab3bd7d438661657fda915da, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 93df7cbf7e650b1499cbcef726fc69b4, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 25d272706e5a56948ac5cd3ef6186de6, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: ccb829d364641794d8d07ff93e111ff0, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: c9810b59bdc0ef3408268da2b8c88d59, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 5cdb9b78c3639b643b294a7ec3740ead, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 11f2e393c5ad6ec42ba5e5b246e2afc9, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: ffd27c97e6b8f524888deb8882e115b6, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: f0296d1bd4bcb2f48a04705764ff0362, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 8aefe6859e0863446b94d239aeacd750, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: e17192104ea53344e9e0920b9fc495e0, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 58d5a3a8d0b9d004496d5733597b7d34, type: 2}
+    isSold: 0
+    price: 10
+  BlackMaleCyanClothes:
+  - itemMaterial: {fileID: 2100000, guid: 398f9a4b8945dc743a3f652e82338b82, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 06e4e39bf55368548aec41748a95945d, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 79cb3b1d43fc6c646bba79ecf2fd8b6d, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 915e97c811e01b2499d6d94984fa4e04, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 0224dfd520cfff14ca90c8630eb56744, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: ceacd73f537419148832adda2335ed92, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: ecabfa119fc0c924c9374f3fe1bf4b48, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: fa8a9cdd4de13e34e8c5384205c9942c, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: c9b8fb8da90f6ff4c8bfb7c35c602aeb, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: b77d98aeb8eaee249946633eebe0f400, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: c57f0ce54108d77439acfdf9c9edcf17, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 24451a75e7923a942a9567349a12adb1, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 180c75aa4aa546748bdc0cb034425a8b, type: 2}
+    isSold: 0
+    price: 25
+  WhiteMaleBlackClothes:
+  - itemMaterial: {fileID: 2100000, guid: d828e13b88f491d4383a5823e5895e6c, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: a836721fb65e82a4ea1d5138079d7023, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 029c0c4738ee48543bd81977d9e00cea, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: d32e3e0d3c4a17d4bad3e92a378d20fa, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 505a6b82e1bc49c41a896cba3ac6cbe7, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 35944a762c449fd41bad1f440cc1adae, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: f3c491063ae712f41a0d2e56f7caad25, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 0a5d2747134cf314399e9739b1dcda28, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: ffc715166490c9a44a0fad66b2faddee, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 21108b65fd441a540a522e3f62436cf8, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: 690ce8d59ba9288439134003c7b44a9b, type: 2}
+    isSold: 1
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: e8426156213c20d48a81071f11b2fd61, type: 2}
+    isSold: 0
+    price: 0
+  - itemMaterial: {fileID: 2100000, guid: d650ef836f3a4794dabf6d1f257089ba, type: 2}
+    isSold: 0
+    price: 0
+  WhiteMaleBlueClothes:
+  - itemMaterial: {fileID: 2100000, guid: c241e7f9d807e1b4aa1fb56d82cc4b88, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 469d922ff1e66f94d967afcaa9dd70a4, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 007ba2a075371d04e8368be78b7ca65a, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: b786cc9a6dfa32443b5e0129f424b128, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 4e1b74bace509964489bceb138a4580d, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 0a2535f6fc7d0de4c8351e1253faea8b, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: df84fd3447024db4f84db90a71831904, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: ef055d879de47b64ea30797ecd0081ec, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 7a69c862b3413c749a202a80040cf89f, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 3ac0cfbbfa4fede4cb3c2afb18dcee1a, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 275ea7a0d875afb439012cd560eb487c, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: 9d1cb42007f2a7944855ea35e68f5911, type: 2}
+    isSold: 0
+    price: 10
+  - itemMaterial: {fileID: 2100000, guid: b5f315ef3bc155c40b21f5fd15cfef64, type: 2}
+    isSold: 0
+    price: 10
+  WhiteMaleCyanClothes:
+  - itemMaterial: {fileID: 2100000, guid: f68ad2ac59e29b748a67a07caa6de2b5, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: ffd0d798a23a02d408f0eb6f28fa8185, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: f3bda6a32a0cfdc4ea324103dab6078d, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: e104b2a1bcc553e488f00bb7eb3359fd, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: e445df81d0a39db429ea5023c012e4f6, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 129a9e7328173c841a64ad8e77237de7, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 2fc52623ce8823944b0f4b78afc3e158, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: f190f3d9c3cb74a42a317519cc03f57d, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 6167f12eecbad6543a990653bff2ba91, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 93529c0633cbef54f813cd9c3cfad8a5, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 778bb1f39cfdf2342be2df00015a120d, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: 82f73e26974681145a532e7b56657e03, type: 2}
+    isSold: 0
+    price: 25
+  - itemMaterial: {fileID: 2100000, guid: a2a391b27a4fc7d4cac674e1ca69c730, type: 2}
+    isSold: 0
+    price: 25
+  HairList:
+  - {fileID: 164666, guid: fa1e6a3e696414147948f640638daa8b, type: 3}
+  - {fileID: 129616, guid: 88191a383267f8840a481c639aea5f08, type: 3}
+  - {fileID: 116034, guid: def2d03954d86f04189432fa764b0512, type: 3}
+  - {fileID: 130080, guid: 0069f67ade9769042a6e8a1a5e7dd6f0, type: 3}
+  - {fileID: 122108, guid: 02a97c8433a68a4479a8b4db27b3f49d, type: 3}
+  - {fileID: 166444, guid: f85f2026acddfc4439ac02b0d561c8dc, type: 3}
+  - {fileID: 119352, guid: b5b67d6ecaaca1148b4b6315b219237d, type: 3}
+  - {fileID: 112136, guid: 6ff5ba83e490604488f9260281e85619, type: 3}
+  - {fileID: 184204, guid: 005b196bd3c66924b81ab30b161dc748, type: 3}
+  - {fileID: 181722, guid: 5fa53263bed63494c97405cdabd268f8, type: 3}
+  - {fileID: 109288, guid: 0536b475201d2774ca7b29911d7827be, type: 3}
+  - {fileID: 107438, guid: 075b7d74dd562f441af87b7993d0d203, type: 3}
+  - {fileID: 144152, guid: 90a939f40ad0ab446ae6e732c550bd67, type: 3}
+  - {fileID: 139928, guid: 0ae08d4bab332eb4499c732ed1ed4101, type: 3}
+  - {fileID: 121612, guid: c130f451d2fec8f4797a4f3fc14d7ef5, type: 3}
+  - {fileID: 159174, guid: 0df90d243a31e9e4d9135118e22ef034, type: 3}
+  - {fileID: 156628, guid: b617b19e35dc8b842ba8995e69979ba8, type: 3}
+  - {fileID: 145498, guid: d0c4c567ab939704081f272a488cfff4, type: 3}
+  - {fileID: 117706, guid: 153e2e04d8c85c94c91002030bfa6945, type: 3}
+  - {fileID: 177058, guid: 2c3562aee9b29344c8c61382e1182424, type: 3}
+  - {fileID: 184444, guid: 9a93ca6c580633b43b4e3e0c30ce9be4, type: 3}
+  - {fileID: 141130, guid: 71073c45300af8841a0590b10eac3c10, type: 3}
+  - {fileID: 106038, guid: 76d7066fdf55ce14080da70889acbedb, type: 3}
+  - {fileID: 109262, guid: 3df830dbf741d5941ba45d7bdbd34f8f, type: 3}
+  - {fileID: 160424, guid: 9877e07de52e5fd419b5f5e8ffcdcbcc, type: 3}
+  - {fileID: 164406, guid: bdfb9ffc592534f4aa07594e3f3ef951, type: 3}
+  - {fileID: 165554, guid: 92dbec1e838ff8240af15696037aaafd, type: 3}
+  - {fileID: 182730, guid: f19ca51a237285741b46c78350ad999a, type: 3}
+  - {fileID: 185884, guid: fc321ec82e8a15e499993e7fe5aa5fba, type: 3}
+  - {fileID: 142040, guid: 0f48c8be8404588409e97d6158fd47a9, type: 3}
+  - {fileID: 179232, guid: fa14a2057f2e4d8468dd2aff595888f8, type: 3}
+  - {fileID: 147500, guid: 5fd6eb3e46f426b4f8442342d515ef21, type: 3}
+  - {fileID: 135820, guid: e83dba2a6b22ec64f9fa0f17dd1fb75b, type: 3}
+  - {fileID: 143368, guid: 4d7b8c77fecd4f940b50e49cfd198dee, type: 3}
+  - {fileID: 109218, guid: 66c4a3d2e3817144896fabae3f92b69a, type: 3}
+  - {fileID: 131310, guid: 58dc27bd2529c9345a5e41d7eb3b7d47, type: 3}
+  HairColor:
+  - {fileID: 2100000, guid: 4e9915690b5c5c94598ee6ddd1a66346, type: 2}
+  - {fileID: 2100000, guid: bd1bfc43bf02ac243af9eba6e1a3df55, type: 2}
+  - {fileID: 2100000, guid: ad8ffefe41f6a9b4781dc7f765fc4a50, type: 2}
+  - {fileID: 2100000, guid: 4520e2407b0689a47853a705851eac10, type: 2}
+  - {fileID: 2100000, guid: 774eb2f6d8e113f4ab8337e1e5d3ed3b, type: 2}
+  - {fileID: 2100000, guid: 95970a61a744ecc4fb73b8ac6a79fb29, type: 2}
+  - {fileID: 2100000, guid: 4b883841e875be043b7908c87e67761a, type: 2}
